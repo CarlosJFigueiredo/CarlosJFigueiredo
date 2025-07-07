@@ -12,21 +12,22 @@ Olá! Sou estudante de Engenharia de Software com interesse especial em criar so
 
 ---
 
-## 🚀 Tecnologias que conheço
+### 🧩 Tecnologias & Ferramentas
 
-- **Backend:** Java, Spring Boot  
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, Next.js  
-- **Ferramentas:** Git, GitHub  
-
-Estou sempre estudando e evoluindo minhas habilidades em desenvolvimento web, arquitetura de sistemas e boas práticas de versionamento.
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
-## 📂 Meus projetos
-
-Aqui no GitHub você encontrará meus projetos pessoais, estudos e colaborações, que refletem minha trajetória como desenvolvedor e meu progresso contínuo.
-
----
 
 ## 📫 Contato
 
